@@ -1,0 +1,47 @@
+# ===== Altium Generated / Cache =====
+__Previews/
+History/
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+
+# ===== Output / Manufacturing Files =====
+Project Outputs for */*
+*.zip
+*.rar
+
+# ===== CAM / Fabrication Outputs =====
+*.GBL
+*.GBS
+*.GTL
+*.GTS
+*.GTO
+*.TXT
+*.DRL
+*.REP
+*.APR
+*.RUL
+
+# ===== Compiler / Temp Files =====
+*.log
+*.bak
+*.tmp
+
+# ===== Simulation / Cache =====
+*.SimData
+*.drl
+*.csv
+
+# ===== Auto Save =====
+*.AutoSave
+
+# ===== System Files =====
+Thumbs.db
+.DS_Store
+
+# ===== Altium Workspace =====
+*.DsnWrk
+*.PrjMbdStructure
+
+# ===== Local Settings =====
+*.OutJobCache
