@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=NetP1_1 New Net Name=+5
+Change Net Name : Old Net Name=NetP1_19 New Net Name=+3.3V
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=U1-J2-14
+Added Pin To Net: NetName=GND Pin=U1-J3-1
+Added Pin To Net: NetName=GND Pin=U1-J3-7
+Added Net: Name=GND
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
