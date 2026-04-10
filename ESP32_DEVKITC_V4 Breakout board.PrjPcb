@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSIKPXAV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESP32_DEVKITC_V4 Breakout board\Design Rule Check - board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
